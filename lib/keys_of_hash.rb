@@ -8,4 +8,5 @@ class Hash
       end
     end
     tmp
+  end
 end
