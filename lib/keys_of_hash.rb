@@ -3,7 +3,7 @@ class Hash
     # code goes here
     tmp = []
     each do |key, value|
-      if arguments.include? value
+      if arguments.include?(value)
         tmp << key
       end
     end
